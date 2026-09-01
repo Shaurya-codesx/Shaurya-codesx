@@ -179,7 +179,7 @@ A native Kotlin fitness and run-tracking application built with Jetpack Compose,
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaurya-codesx&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=ffffff&area=true&hide_border=true"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Shaurya-codesx&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
